@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "愛なんですよ",
+  "base_artist": "岡咲美保",
+  "createdAt": "2026-03-31T11:42:03.849397Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛なんですよ",
+      "artist": "MILGRAM マヒル (CV: 岡咲美保)",
+      "has_synced": true,
+      "path": "select/01_愛なんですよ_MILGRAM_マヒル_(CV__岡咲美保).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛なんですよ",
+      "artist": "MILGRAM マヒル (CV:岡咲美保)",
+      "has_synced": true,
+      "path": "select/02_愛なんですよ_MILGRAM_マヒル_(CV_岡咲美保).lrc"
+    }
+  ]
+}
